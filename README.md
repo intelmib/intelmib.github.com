@@ -2,6 +2,8 @@
 
 Pagina inicial: https://intelmib.github.io/
 
+Arquivos publicados pelo GitHub Pages: `docs/`
+
 ## Protetor de Chamadas
 
 - Documentos: https://intelmib.github.io/app-call-blocker/
